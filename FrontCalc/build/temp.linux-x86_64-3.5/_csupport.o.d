@@ -1,0 +1,1 @@
+commandline: -I/home/links/apr207/.conda/envs/py3/lib/python3.5/site-packages/numpy/core/include -I/home/links/apr207/.conda/envs/py3/include/python3.5m -c-I/home/links/apr207/.conda/envs/py3/lib/python3.5/site-packages/numpy/core/include -I/home/links/apr207/.conda/envs/py3/include/python3.5m

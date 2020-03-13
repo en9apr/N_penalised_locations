@@ -1,0 +1,30 @@
+Forrester run. in /home/andrew/Dropbox/00_Hydro_Project/13_bayesian_optimiser_code/0000_Forrester/A_forrester_initialisation_parallel/ExeterCFDProblems
+main: removed old case, copied new case
+initialisation(): number of Latin Hypercube samples 10
+initialisation(): written decision vector to a file
+initialisation(): written decision vector to a file
+initialisation(): written decision vector to a file
+initialisation(): written decision vector to a file
+initialisation(): written decision vector to a file
+initialisation(): written decision vector to a file
+initialisation(): written decision vector to a file
+initialisation(): written decision vector to a file
+initialisation(): written decision vector to a file
+initialisation(): written decision vector to a file
+Writing empty initial_samples.npz file...
+Data saved in file:  initial_samples.npz
+Total number of simulations,  10
+All directories created.
+Unordered results:
+	 Process-3 says that mul('/home/andrew/Dropbox/00_Hydro_Project/13_bayesian_optimiser_code/0000_Forrester/A_forrester_initialisation_parallel/ExeterCFDProblems/data/Forrester/case_local/_0.8357_',) = Done time,10.783943891525269
+	 Process-1 says that mul('/home/andrew/Dropbox/00_Hydro_Project/13_bayesian_optimiser_code/0000_Forrester/A_forrester_initialisation_parallel/ExeterCFDProblems/data/Forrester/case_local/_0.9546_',) = Done time,10.902976512908936
+	 Process-2 says that mul('/home/andrew/Dropbox/00_Hydro_Project/13_bayesian_optimiser_code/0000_Forrester/A_forrester_initialisation_parallel/ExeterCFDProblems/data/Forrester/case_local/_0.4390_',) = Done time,11.008666038513184
+	 Process-4 says that mul('/home/andrew/Dropbox/00_Hydro_Project/13_bayesian_optimiser_code/0000_Forrester/A_forrester_initialisation_parallel/ExeterCFDProblems/data/Forrester/case_local/_1.2533_',) = Done time,15.883025884628296
+	 Process-3 says that mul('/home/andrew/Dropbox/00_Hydro_Project/13_bayesian_optimiser_code/0000_Forrester/A_forrester_initialisation_parallel/ExeterCFDProblems/data/Forrester/case_local/_1.3531_',) = Done time,10.717501401901245
+	 Process-1 says that mul('/home/andrew/Dropbox/00_Hydro_Project/13_bayesian_optimiser_code/0000_Forrester/A_forrester_initialisation_parallel/ExeterCFDProblems/data/Forrester/case_local/_0.5441_',) = Done time,10.649971961975098
+	 Process-2 says that mul('/home/andrew/Dropbox/00_Hydro_Project/13_bayesian_optimiser_code/0000_Forrester/A_forrester_initialisation_parallel/ExeterCFDProblems/data/Forrester/case_local/_1.0748_',) = Done time,10.604681491851807
+	 Process-4 says that mul('/home/andrew/Dropbox/00_Hydro_Project/13_bayesian_optimiser_code/0000_Forrester/A_forrester_initialisation_parallel/ExeterCFDProblems/data/Forrester/case_local/_0.3251_',) = Done time,10.475466012954712
+	 Process-1 says that mul('/home/andrew/Dropbox/00_Hydro_Project/13_bayesian_optimiser_code/0000_Forrester/A_forrester_initialisation_parallel/ExeterCFDProblems/data/Forrester/case_local/_0.9958_',) = Done time,10.739483118057251
+	 Process-3 says that mul('/home/andrew/Dropbox/00_Hydro_Project/13_bayesian_optimiser_code/0000_Forrester/A_forrester_initialisation_parallel/ExeterCFDProblems/data/Forrester/case_local/_0.7225_',) = Done time,15.878965854644775
+Number of simultaneous runs,  4
+Time taken (minutes),  0.6284667094548543
